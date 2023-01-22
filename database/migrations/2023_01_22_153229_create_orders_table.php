@@ -15,6 +15,12 @@ return new class extends Migration
     {
         Schema::create('orders', function (Blueprint $table) {
             $table->id();
+            $table->string('code', 10)->unique();
+            $table->string('name');
+            $table->string('surname');
+            $table->string('address');
+            $table->double('total',6,2);
+            $table->boolean('shipped')->default(false);
             $table->timestamps();
         });
     }
