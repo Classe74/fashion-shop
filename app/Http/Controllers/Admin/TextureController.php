@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 
-use App\Models\texture;
+use App\Models\Texture;
 use Illuminate\Http\Request;
 
 class TextureController extends Controller
