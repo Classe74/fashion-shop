@@ -113,126 +113,6 @@ return [
     ],
     'colors' => [
         [
-            "hex_value" => "#A37948",
-            "colour_name" => "Caribbean"
-        ],
-        [
-            "hex_value" => "#DDA983",
-            "colour_name" => "St Tropez"
-        ],
-        [
-            "hex_value" => "#9C7248",
-            "colour_name" => "Bahama Mama"
-        ],
-        [
-            "hex_value" => "#D1AE8E",
-            "colour_name" => "Confessions Of Tanaholic"
-        ],
-        [
-            "hex_value" => "#AB7C62",
-            "colour_name" => "Bronze Ensemble"
-        ],
-        [
-            "hex_value" => "#D59DA8",
-            "colour_name" => "When Leopard Gets A Tan"
-        ],
-        [
-            "hex_value" => "#D6988D",
-            "colour_name" => "Tan Enthusiasm"
-        ],
-        [
-            "hex_value" => "#A97D64",
-            "colour_name" => "Tribal Odyssey"
-        ],
-        [
-            "hex_value" => "#DDA284",
-            "colour_name" => "Narcissistic"
-        ],
-        [
-            "hex_value" => "#E99D8F",
-            "colour_name" => "Chaotic"
-        ],
-        [
-            "hex_value" => "#E5A083",
-            "colour_name" => "Magnetic"
-        ],
-        [
-            "hex_value" => "#E7CAB8",
-            "colour_name" => "Ritualistic"
-        ],
-        [
-            "hex_value" => "#DD9E95",
-            "colour_name" => "Enigmatic"
-        ],
-        [
-            "hex_value" => "#C58965",
-            "colour_name" => "Light"
-        ],
-        [
-            "hex_value" => "#AC7D63",
-            "colour_name" => "Deep"
-        ],
-        [
-            "hex_value" => "#BB805E",
-            "colour_name" => "Medium"
-        ],
-        [
-            "hex_value" => "#B27759",
-            "colour_name" => "Dark Tan"
-        ],
-        [
-            "hex_value" => "#B17752",
-            "colour_name" => "Deep Tan"
-        ],
-        [
-            "hex_value" => "#E6C2C6",
-            "colour_name" => "Lavender Lust"
-        ],
-        [
-            "hex_value" => "#F4D0B8",
-            "colour_name" => "Chardonnay Shimmer"
-        ],
-        [
-            "hex_value" => "#FBC4AF",
-            "colour_name" => "Pearl Pink Lace"
-        ],
-        [
-            "hex_value" => "#F8BAA3",
-            "colour_name" => "Pinkie Dust"
-        ],
-        [
-            "hex_value" => "#FD876D",
-            "colour_name" => "Coralicious"
-        ],
-        [
-            "hex_value" => "#FD7373",
-            "colour_name" => "Rose Petal Pop"
-        ],
-        [
-            "hex_value" => "#C03731",
-            "colour_name" => "Brick Red Blaze"
-        ],
-        [
-            "hex_value" => "#EFB381",
-            "colour_name" => "Sun Kissed Crush"
-        ],
-        [
-            "hex_value" => "#E9A47A",
-            "colour_name" => "Bermuda Bronze"
-        ],
-        [
-            "hex_value" => "#DD9861",
-            "colour_name" => "Maui Suntan"
-        ],
-        [
-            "hex_value" => "#CE8A5B",
-            "colour_name" => "Sandy Glow"
-        ],
-        [
-            "hex_value" => "#C38451",
-            "colour_name" => "Topaz Tan"
-        ],
-        [
             "hex_value" => "#B7AB9F",
             "colour_name" => "Highlighter"
         ],
@@ -269,286 +149,185 @@ return [
             "colour_name" => "Dare"
         ],
         [
-            "hex_value" => "#CC846C",
-            "colour_name" => "Bora Bora"
+            "hex_value" => "#E4878F",
+            "colour_name" => "Boho Chic"
         ],
         [
-            "hex_value" => "#F5A493",
-            "colour_name" => "Marbella"
-        ],
-        [
-            "hex_value" => "#F19E96",
-            "colour_name" => "Phi Phi Island"
-        ],
-        [
-            "hex_value" => "#DD7F97",
-            "colour_name" => "Rose Garden"
-        ],
-        [
-            "hex_value" => "#BA356C",
-            "colour_name" => "Pinky"
-        ],
-        [
-            "hex_value" => "#E07F88",
-            "colour_name" => "Pinched"
-        ],
-        [
-            "hex_value" => "#AB0A33",
-            "colour_name" => "Red"
-        ],
-        [
-            "hex_value" => "#D19E9D",
-            "colour_name" => "Angel"
-        ],
-        [
-            "hex_value" => "#C27B67",
-            "colour_name" => "Terra Cotta"
-        ],
-        [
-            "hex_value" => "#E1D6CC",
-            "colour_name" => "Invisible Blend"
-        ],
-        [
-            "hex_value" => "#E9CEB9",
-            "colour_name" => "Transparency Neutral"
-        ],
-        [
-            "hex_value" => "#E6C8B9",
-            "colour_name" => "Transparency 2"
-        ],
-        [
-            "hex_value" => "#DBBCA4",
-            "colour_name" => "Transparency 3"
-        ],
-        [
-            "hex_value" => "#D2AC97",
-            "colour_name" => "Transparency 4"
-        ],
-        [
-            "hex_value" => "#BA927A",
-            "colour_name" => "Transparency 4 Plus"
-        ],
-        [
-            "hex_value" => "#BB9280",
-            "colour_name" => "Transparency Bronze"
-        ],
-        [
-            "hex_value" => "#AE846A",
-            "colour_name" => "Transparency 5"
-        ],
-        [
-            "hex_value" => "#E9B180",
+            "hex_value" => "#F08E8B",
             "colour_name" => "Natural"
         ],
         [
-            "hex_value" => "#C68C63",
-            "colour_name" => "Sunswept"
+            "hex_value" => "#D27772",
+            "colour_name" => "Rose Petal"
         ],
         [
-            "hex_value" => "#CE8963",
-            "colour_name" => "Sunblushed"
+            "hex_value" => "#D36A6F",
+            "colour_name" => "Glow"
         ],
         [
-            "hex_value" => "#DA9475",
-            "colour_name" => "Sunkissed"
+            "hex_value" => "#FF3986",
+            "colour_name" => "Hot Pink"
         ],
         [
-            "hex_value" => "#f1bfa0",
-            "colour_name" => "Nude Glow"
+            "hex_value" => "#FF1850",
+            "colour_name" => "Red Cheeks"
         ],
         [
-            "hex_value" => "#e29c74",
-            "colour_name" => "Golden Glow"
+            "hex_value" => "#EB6B50",
+            "colour_name" => "Orange"
         ],
         [
-            "hex_value" => "#bb6f4a",
-            "colour_name" => "Bronze Glow"
+            "hex_value" => "#EC6E71",
+            "colour_name" => "Tickled"
         ],
         [
-            "hex_value" => "#bb7859",
-            "colour_name" => "Universal Glow"
+            "hex_value" => "#CA7769",
+            "colour_name" => "Tea Rose"
         ],
         [
-            "hex_value" => "#CD9163",
-            "colour_name" => "001 Golden Honey"
+            "hex_value" => "#7B5C3F",
+            "colour_name" => "Blonde"
         ],
         [
-            "hex_value" => "#CD9068",
-            "colour_name" => "002 Amber"
+            "hex_value" => "#5E4C3E",
+            "colour_name" => "Taupe"
         ],
         [
-            "hex_value" => "#D8996C",
-            "colour_name" => "003 Cinnamon"
+            "hex_value" => "#4C392B",
+            "colour_name" => "Soft Brown"
         ],
         [
-            "hex_value" => "#B17252",
-            "colour_name" => "035 Matte Cinnamon"
+            "hex_value" => "#4F2F22",
+            "colour_name" => "Auburn"
         ],
         [
-            "hex_value" => "#CE9990",
-            "colour_name" => null
+            "hex_value" => "#151419",
+            "colour_name" => "Brunette"
         ],
         [
-            "hex_value" => "#DEB094",
-            "colour_name" => null
+            "hex_value" => "#0C160E",
+            "colour_name" => "Espresso"
         ],
         [
-            "hex_value" => "#be8667",
-            "colour_name" => "WARM MATTE"
+            "hex_value" => "#0B0D0A",
+            "colour_name" => "Ash Brown"
         ],
         [
-            "hex_value" => "#a8765a",
-            "colour_name" => "DEEP MATTE"
+            "hex_value" => "#000000",
+            "colour_name" => "Black"
         ],
         [
-            "hex_value" => "#C49D88",
-            "colour_name" => null
+            "hex_value" => "#fff9bd",
+            "colour_name" => "Grandest Gold"
         ],
         [
-            "hex_value" => "#AA8475",
-            "colour_name" => null
+            "hex_value" => "#f0c6b0",
+            "colour_name" => "Bountiful Beige"
         ],
         [
-            "hex_value" => "#A78371",
-            "colour_name" => null
+            "hex_value" => "#714a3a",
+            "colour_name" => "Fuller Fudge"
         ],
         [
-            "hex_value" => "#9D6C45",
-            "colour_name" => "medium"
+            "hex_value" => "#c89274",
+            "colour_name" => "Ample Amber"
         ],
         [
-            "hex_value" => "#B48363",
-            "colour_name" => "light"
+            "hex_value" => "#efa9ad",
+            "colour_name" => "Pink & Plenty"
         ],
         [
-            "hex_value" => "#9D6855",
-            "colour_name" => null
+            "hex_value" => "#776933",
+            "colour_name" => "Whopping Willow"
         ],
         [
-            "hex_value" => "#BA8B71",
-            "colour_name" => null
+            "hex_value" => "#6b785c",
+            "colour_name" => "Mighty Moss"
         ],
         [
-            "hex_value" => "#D5838E",
-            "colour_name" => null
+            "hex_value" => "#e47c6e",
+            "colour_name" => "Biggest Blossom"
         ],
         [
-            "hex_value" => "#B77C59",
-            "colour_name" => "Glowing Halo "
+            "hex_value" => "#a18baa",
+            "colour_name" => "Lavish Lilac"
         ],
         [
-            "hex_value" => "#B98963",
-            "colour_name" => "On Cloud 9 "
+            "hex_value" => "#a78b97",
+            "colour_name" => "Oversized Orchid"
         ],
         [
-            "hex_value" => "#A27B67",
-            "colour_name" => null
+            "hex_value" => "#4399bc",
+            "colour_name" => "Big Blue"
         ],
         [
-            "hex_value" => "#B78A77",
-            "colour_name" => "Haute Gold"
+            "hex_value" => "#8c6f62",
+            "colour_name" => "Lots o' Latte"
         ],
         [
-            "hex_value" => "#BC8B72",
-            "colour_name" => "Matte Gold"
+            "hex_value" => "#558c7f",
+            "colour_name" => "Two Ton Teal"
         ],
         [
-            "hex_value" => "#D7A989",
-            "colour_name" => null
+            "hex_value" => "#4d434c",
+            "colour_name" => "Curvaceous Coal"
         ],
         [
-            "hex_value" => "#AD8C79",
-            "colour_name" => null
+            "hex_value" => "#765074",
+            "colour_name" => "Portly Plum"
         ],
         [
-            "hex_value" => "#CE9973",
-            "colour_name" => null
+            "hex_value" => "#2f4168",
+            "colour_name" => "Massive Midnight"
         ],
         [
-            "hex_value" => "#C68F63",
-            "colour_name" => null
+            "hex_value" => "#F1DBC3",
+            "colour_name" => "Light"
         ],
         [
-            "hex_value" => "#B48A60",
-            "colour_name" => "Medium "
+            "hex_value" => "#E5BE93",
+            "colour_name" => "Medium"
         ],
         [
-            "hex_value" => "#B57F5B",
-            "colour_name" => "Dark "
+            "hex_value" => "#4F3425",
+            "colour_name" => "Rich"
         ],
         [
-            "hex_value" => "#DAAB87",
-            "colour_name" => null
+            "hex_value" => "#BC8E5A",
+            "colour_name" => "Dark"
         ],
         [
-            "hex_value" => "#C79374",
-            "colour_name" => null
+            "hex_value" => "#96644A",
+            "colour_name" => "Deep"
         ],
         [
-            "hex_value" => "#C79279",
-            "colour_name" => null
+            "hex_value" => "#C1486C",
+            "colour_name" => "Chaos Strawberry Pink"
         ],
         [
-            "hex_value" => "#DFB797",
-            "colour_name" => null
+            "hex_value" => "#C27273",
+            "colour_name" => "Fuschia "
         ],
         [
-            "hex_value" => "#906E5A",
-            "colour_name" => null
+            "hex_value" => "#C9528C",
+            "colour_name" => "Hera Iridescent Soft Fuchsia"
         ],
         [
-            "hex_value" => "#CFA17F",
-            "colour_name" => "Light to Medium (1134C)  "
+            "hex_value" => "#BB5F60",
+            "colour_name" => "Honey Nectar Soft Brown"
         ],
         [
-            "hex_value" => "#AF816A",
-            "colour_name" => "Medium to Dark (1135C) "
+            "hex_value" => "#AA202E",
+            "colour_name" => "Hot Red Bright Blue-Red"
         ],
         [
-            "hex_value" => "#BF8970",
-            "colour_name" => null
-        ],
-
-        [
-            "hex_value" => "#C09E7C",
-            "colour_name" => null
+            "hex_value" => "#975D4F",
+            "colour_name" => "Iced Coffee Deep Beige"
         ],
         [
-            "hex_value" => "#DAB3A5",
-            "colour_name" => null
-        ],
-        [
-            "hex_value" => "#DCBAA3",
-            "colour_name" => null
-        ],
-        [
-            "hex_value" => "#B4907C",
-            "colour_name" => null
-        ],
-        [
-            "hex_value" => "#A2734C",
-            "colour_name" => null
-        ],
-        [
-            "hex_value" => "#CF9978",
-            "colour_name" => "Medium Bronze "
-        ],
-        [
-            "hex_value" => "#e0a576",
-            "colour_name" => "Light to Medium (7853C) "
-        ],
-        [
-            "hex_value" => "#A9745E",
-            "colour_name" => null
-        ],
-        [
-            "hex_value" => "#AA644B",
-            "colour_name" => "Soleil (Medium Bronzed Tan with Gold Shimmer)  "
-        ],
-        [
-            "hex_value" => "#BA8265",
-            "colour_name" => null
-        ],
+            "hex_value" => "#A1605E",
+            "colour_name" => "Pecan "
+        ]
 
     ],
     'products' => [
