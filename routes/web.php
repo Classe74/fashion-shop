@@ -14,9 +14,9 @@ use App\Http\Controllers\Admin\DashboardController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
 // Route::get('/dashboard', function () {
 //     return view('dashboard');
@@ -37,3 +37,7 @@ Route::middleware(['auth', 'verified'])
    });
 
 require __DIR__.'/auth.php';
+
+Route::fallback(function() {
+    return redirect()->route('admin.dashboard');
+});
