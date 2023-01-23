@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Admin\ProductController;
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Admin\DashboardController;
@@ -34,6 +35,7 @@ Route::middleware(['auth', 'verified'])
    ->group(function () {
          Route::get('/', [DashboardController::class, 'index'])
          ->name('dashboard');
+        Route::resource('products', ProductController::class);
    });
 
 require __DIR__.'/auth.php';
