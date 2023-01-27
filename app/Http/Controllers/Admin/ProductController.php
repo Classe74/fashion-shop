@@ -15,9 +15,15 @@ class ProductController extends Controller
      *
      * @return
      */
-    public function index()
+    public function index(Request $request)
     {
-        $products = Product::all();
+        if(!empty($request->query('search'))){
+            $miavariabile = $request->query('search');
+            $products = Product::where('category', $miavariabile)->get();
+        } else {
+             $products = Product::paginate(10);
+        }
+
         return view('admin.products.index', compact('products'));
     }
 
